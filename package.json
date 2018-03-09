@@ -1,0 +1,23 @@
+{
+  "name": "electron2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otavioprimo/electron-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otavioprimo/electron-starter/issues"
+  },
+  "homepage": "https://github.com/otavioprimo/electron-starter#readme",
+  "devDependencies": {
+    "electron": "^1.8.3"
+  }
+}
